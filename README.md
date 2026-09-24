@@ -15,6 +15,12 @@ helps identify important financial and operational patterns.
 
 ------------------------------------------------------------------------
 
+## 🖥️ Dashboard Preview
+
+![Business Revenue, Expense & Profit Analysis Dashboard](dashboard_preview.png)
+
+-------------------------------------------------------------------------------
+
 ## 🎯 Project Objectives
 
 -   Analyze total revenue, expenses, and profit.
@@ -183,7 +189,8 @@ The analysis process follows this structure:
 
   How do financial        Category, Revenue,      Line Chart
   measures compare by     Expenses, Profit        
-  category?                                       
+  category?   
+  
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
